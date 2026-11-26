@@ -1,0 +1,11 @@
+# Ignora tudo por padrão (tokens, sessões, cache, logs)
+*
+
+# Libera apenas os arquivos e pastas desejados
+!.gitignore
+!GEMINI.md
+!antigravity/
+!antigravity/skills/
+!antigravity/skills/**
+!antigravity/global_workflows/
+!antigravity/global_workflows/**
