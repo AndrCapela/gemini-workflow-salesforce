@@ -4,7 +4,6 @@
 # Libera apenas os arquivos e pastas desejados
 !.gitignore
 !README.md
-!GEMINI.md
 !antigravity/
 !antigravity/skills/
 !antigravity/skills/**

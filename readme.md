@@ -11,7 +11,6 @@ Este repositório é mapeado diretamente para a pasta global `~/.gemini/` do usu
 ```text
 ~/.gemini/
 ├── .gitignore                                     # Protege dados sensíveis locais (allowlist)
-├── GEMINI.md                                      # Regras globais agnósticas de stack
 ├── README.md                                      # Esta documentação
 └── antigravity/
     ├── skills/
